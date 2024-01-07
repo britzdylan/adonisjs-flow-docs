@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": {
+      "title": "Adonisjs Flow",
+      "href": "/"
+    },
+    "github": {
+      "title": "Adonisjs Flow",
+      "href": "https://github.com/britzdylan/adonisjs-flow"
+    }
+  },
+  "sponsors_sources": ["britzdylan"],
+  "search": {},
+
+  "fileEditBaseUrl": "https://github.com/dimerapp/docs-boilerplate/blob/develop",
+  "copyright": "Adonsisjs Flow"
+}
