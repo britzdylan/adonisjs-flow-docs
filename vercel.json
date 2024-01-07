@@ -2,8 +2,8 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "from": "/",
-      "to": "/docs/index.html",
+      "source": "/",
+      "destination": "/docs/index.html",
       "permanent": true
     }
   ]
